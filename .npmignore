@@ -1,8 +1,9 @@
-node_modules
+node_modules/**/*
 .vscode
 package-lock.json
 .github
 CHANGELOG.md
 .travis.yml
 .gitignore
+.editorconfig
 spec
